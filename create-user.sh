@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 if [ $# -ne 1 ]
 then
   echo "Usage: create-user username"
